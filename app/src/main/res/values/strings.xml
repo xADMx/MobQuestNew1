@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Моб. Квест.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="left_menu_quest">Задания</string>
+    <string name="left_menu_map">Карта</string>
+    <string name="left_menu_group">Группа</string>
+    <string name="left_menu_tools">Настройки</string>
+    <string name="left_menu_chat">Чат группы</string>
+    <string name="left_menu_control_panel">Панель управления</string>
+    <string name="left_menu_my_quest">Мои задания</string>
+
+    <string name="toolbar_quest">Задания</string>
+    <string name="toolbar_map">Карта</string>
+    <string name="toolbar_group">Группа</string>
+
+    <string name="login_entr">Вход</string>
+    <string name="login_check_rec">Запомнить?</string>
+    <string name="login__pass_hide">Пароль скрыт!</string>
+    <string name="login_e_mail">E-Mail</string>
+    <string name="login_pass">Пароль</string>
+    <string name="login_create_txt">Еще нет учетной записи? Создать</string>
+
+    <string name="reg_entr">Создать</string>
+    <string name="reg_fio">ФИО</string>
+    <string name="reg_e_mail">E-Mail</string>
+    <string name="reg_pass">Пароль</string>
+    <string name="reg_create_txt">Уже есть учетная запись? Войти</string>
+
+    <string name="dialog_distance_title">Внимание!</string>
+    <string name="dialog_distance_message">Выберите нужную дистанцию для показа заданий.</string>
+
+    <string name="action_settings">Настройки</string>
+</resources>

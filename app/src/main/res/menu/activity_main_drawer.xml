@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/gotoquest"
+            android:icon="@drawable/ic_menu_quest"
+            android:title="@string/left_menu_quest" />
+        <item
+            android:id="@+id/gotomap"
+            android:icon="@drawable/ic_menu_map"
+            android:title="@string/left_menu_map" />
+        <item
+            android:id="@+id/gotogroup"
+            android:icon="@drawable/ic_menu_group"
+            android:title="@string/left_menu_group" />
+        <item
+            android:id="@+id/gotochat"
+            android:icon="@drawable/ic_menu_chat"
+            android:title="@string/left_menu_chat" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_settings"
+            android:title="@string/left_menu_tools" />
+    </group>
+
+    <item android:title="@string/left_menu_control_panel">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_quest"
+                android:title="@string/left_menu_my_quest" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
